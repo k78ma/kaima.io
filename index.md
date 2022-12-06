@@ -21,7 +21,7 @@ Machine Learning & Computer Vision Intern <br>
 
 ### Publications
 
-[A Trustworthy Framework for Medical Image Analysis](http://example.com/)
+[A Trustworthy Framework for Medical Image Analysis](http://example.com/) <br>
 Kai Ma, Siyuan He, Pengcheng Xi, Ashkan Ebadi, Stephane Tremblay, Alexander Wong
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
