@@ -22,8 +22,9 @@ Machine Learning & Computer Vision Intern <br>
 ### Publications
 
 [A Trustworthy Framework for Medical Image Analysis](http://example.com/) <br>
-Kai Ma, Siyuan He, Pengcheng Xi, Ashkan Ebadi, Stephane Tremblay, Alexander Wong
-*Conference on Vision and Intelligent Systems (CVIS)*, 2022
+Kai Ma, Siyuan He, Pengcheng Xi, Ashkan Ebadi, Stephane Tremblay, Alexander Wong <br>
+*Conference on Vision and Intelligent Systems (CVIS)*, 2022 <br>
+[[arXiv]](arxiv.org)[[code]](github.com)[[gallery]](example.com)
 
 
 - [Project 2 Title](http://example.com/)
