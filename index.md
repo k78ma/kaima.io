@@ -1,5 +1,5 @@
 ## Welcome to my website!
-### <span style="color:IndianRed">I am currently seeking internships for Summer 2023.</span>
+### <span style="color:LightCoral">I am currently seeking internships for Summer 2023.</span>
 
 ---
 
