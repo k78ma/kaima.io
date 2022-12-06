@@ -22,7 +22,7 @@ Machine Learning & Computer Vision Intern <br>
 - Led project to study the visual explainability and performance of Vision Transformer model architectures.
 - Improved model evaluation by building a robust pipeline for trust quantification, cross-validation, performance logging, and data visualization.
 - Prepared and presented publications as lead author for conferences and journals.
-<br>
+<br> <br>
 
 ---
 
