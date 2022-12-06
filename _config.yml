@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. 
   Specific interests include:  <ul>
     <li>Perception (computer vision, deep learning)</li>
-    <li>Motion planning & control (RL, search/planning algorithms)</li>
+    <li>Motion planning & control</li>
     <li>SLAM</li>
-    <li>Simulation</li>
+    <li>Simulation (reinforcement learning, Sim2Real)</li>
   </ul>
   <br>
   <a href="mailto:k78ma@uwaterloo.ca">Email</a> | <a href="https://www.linkedin.com/in/k78ma/">LinkedIn</a> | <a href="https://github.com/k78ma">GitHub</a>
