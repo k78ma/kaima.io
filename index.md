@@ -31,7 +31,7 @@ Kai Ma, Siyuan He, Pengcheng Xi, Ashkan Ebadi, Stéphane Tremblay, Alexander Won
 [Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography](https://arxiv.org/abs/2207.09312) <br>
 Kai Ma, Pengcheng Xi, Karim Habashy, Ashkan Ebadi, Stéphane Tremblay, Alexander Wong <br>
 *International Conference on Machine Learning (ICML), Healthcare AI & COVID-19 Workshop*, 2022 <br>
-[arXiv](https://arxiv.org/abs/2207.09312) / [code](https://github.com/k78ma/COVIDNet-Transformer) / [presentation](example.com)
+[arXiv](https://arxiv.org/abs/2207.09312) / [code](https://github.com/k78ma/COVIDNet-Transformer) / [presentation](/pdf/ICML_PPT.pdf)
 
 <br>
 
