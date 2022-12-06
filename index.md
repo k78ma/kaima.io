@@ -5,8 +5,8 @@
 
 ### Work Experience
 
-- Deep Learning Intern
-  *Vision and Image Processing Lab, University of Waterloo*
+Deep Learning Intern <br>
+*Vision and Image Processing Lab - University of Waterloo*
 
 ---
 
