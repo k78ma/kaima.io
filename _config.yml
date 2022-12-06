@@ -6,8 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <br><br>
   I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. 
-  Specific interests include:
-  <ul>
+  Specific interests include:  <ul>
     <li>Perception (computer vision, deep learning)</li>
     <liMotion planning & control (RL, search/planning algorithms)</li>
     <li>SLAM</li>
