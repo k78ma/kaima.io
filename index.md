@@ -35,7 +35,7 @@ Machine Learning & Computer Vision Intern <br>
 - [Project 5 Title](http://example.com/)
 
 ---
-<br>
+
 ### Projects
 
 [Project 1 Title](/sample_page)
