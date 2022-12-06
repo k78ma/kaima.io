@@ -18,6 +18,7 @@ Machine Learning & Computer Vision Intern <br>
 - Did some more stuff
 
 <br>
+
 ---
 
 ### Publications
