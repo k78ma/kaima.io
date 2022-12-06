@@ -10,6 +10,8 @@ Deep Learning Intern <br>
 - Did stuff
 - Did some more stuff
 
+<br>
+
 Machine Learning & Computer Vision Intern <br>
 *National Research Council Canada*
 - Did stuff
