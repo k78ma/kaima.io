@@ -33,11 +33,6 @@ Kai Ma, Pengcheng Xi, Karim Habashy, Ashkan Ebadi, Stéphane Tremblay, Alexander
 *International Conference on Machine Learning (ICML), Healthcare AI & COVID-19 Workshop*, 2022 <br>
 [[arXiv](arxiv.org)][[code]](github.com)[[gallery]](example.com)
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 <br>
 
 ---
