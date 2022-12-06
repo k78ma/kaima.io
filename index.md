@@ -7,6 +7,13 @@
 
 Deep Learning Intern <br>
 *Vision and Image Processing Lab - University of Waterloo*
+- Did stuff
+- Did some more stuff
+
+Machine Learning & Computer Vision Intern <br>
+*National Research Council Canada*
+- Did stuff
+- Did some more stuff
 
 ---
 
