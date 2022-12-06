@@ -5,13 +5,13 @@
 
 ### Work Experience
 
-Deep Learning Intern             Sept - Dec 2022 <br>
+Deep Learning Intern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sept - Dec 2022 <br>
 *Vision and Image Processing Lab - University of Waterloo*
 - Working as part of the [FLAIROP](ttps://flairop.com) project (collaboration with KIT, Festo, DarwinAI) to improve perception for robotic grasping.
 
 <br>
 
-Machine Learning & Computer Vision Intern          Jan - Apr 2022 <br>
+Machine Learning & Computer Vision Intern  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan - Apr 2022 <br>
 *National Research Council Canada*
 - Worked as part of the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project to improve performance and trustworthiness for AI-assisted chest radiography.
 
