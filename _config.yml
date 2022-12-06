@@ -7,10 +7,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. 
   Specific interests include:
-  - Perception (computer vision, deep learning)
-  - Motion planning & control (RL, search/planning algorithms).
-  - SLAM
-  - Simulation
+  <ul>
+    <li>Perception (computer vision, deep learning)</li>
+    <liMotion planning & control (RL, search/planning algorithms)</li>
+    <li>SLAM</li>
+    <li>Simulation</li>
+  </ul>
   <br><br>
   <a href="mailto:k78ma@uwaterloo.ca">Email</a> <br>
   <a href="https://www.linkedin.com/in/k78ma/">LinkedIn</a> <br>
