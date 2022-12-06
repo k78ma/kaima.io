@@ -26,6 +26,10 @@ Kai Ma, Siyuan He, Pengcheng Xi, Ashkan Ebadi, Stephane Tremblay, Alexander Wong
 *Conference on Vision and Intelligent Systems (CVIS)*, 2022 <br>
 [[arXiv]](arxiv.org)[[code]](github.com)[[gallery]](example.com)
 
+[Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography](https://arxiv.org/abs/2207.09312) <br>
+Kai Ma, Pengcheng Xi, Karim Habashy, Ashkan Ebadi, Stéphane Tremblay, Alexander Wong <br>
+*International Conference on Machine Learning (ICML), Healthcare AI & COVID-19 Workshop*, 2022 <br>
+[[arXiv](arxiv.org)][[code]](github.com)[[gallery]](example.com)
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
