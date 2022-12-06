@@ -13,7 +13,7 @@ Deep Learning Intern <br>
 
 Machine Learning & Computer Vision Intern <br>
 *National Research Council Canada*
-- Worked as part of the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project to improve performance and trust for AI-assisted chest radiography.
+- Worked as part of the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project to improve performance and trustworthiness for AI-assisted chest radiography.
 
 <br>
 
@@ -26,6 +26,8 @@ Machine Learning & Computer Vision Intern <br>
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+<br>
 
 ---
 
