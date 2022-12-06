@@ -7,11 +7,11 @@
 
 Deep Learning Intern <br>
 *Vision and Image Processing Lab - University of Waterloo*
-- Designing and implementing object detection models as part of \href{https://flairop.com}{\color{NavyBlue}FLAIROP} to improve robot perception.
+- Designing and implementing object detection models as part of [FLAIROP](ttps://flairop.com)to improve robot perception.
 - Built adaptive ensemble models with PyTorch and OpenMMLab to improve precision for similar objects.
 - Trained robotic arm simulations with reinforcement learning to grasp objects based on their position and pose.
 - Reduced model size while maintaining performance to optimize inference on resource-constrained robots.
-- Enhanced training pipeline by automating label generation for our award-winning \href{https://arxiv.org/pdf/2208.03963.pdf}{\color{NavyBlue}MetaGraspNet} synthetic dataset, and expanding annotations to include RLE segmentation, poses, and keypoints.
+- Enhanced training pipeline by automating label generation for our award-winning [MetaGraspNet](https://arxiv.org/pdf/2208.03963.pdf) synthetic dataset, and expanding annotations to include RLE segmentation, poses, and keypoints.
 
 <br>
 
