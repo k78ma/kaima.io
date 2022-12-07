@@ -21,10 +21,10 @@ Machine Learning & Computer Vision Intern  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 ### Publications
 
-[A Trustworthy Framework for Medical Image Analysis](http://example.com/) <br>
+[A Trustworthy Framework for Medical Image Analysis](https://arxiv.org/abs/2212.02764) <br>
 **K. Ma**, S. He, P. Xi, A. Ebadi, S. Tremblay, A. Wong <br>
 *Conference on Vision and Intelligent Systems (CVIS)*, 2022 <br>
-[arXiv](https://arxiv.org/abs/2207.09312) / [code](https://github.com/k78ma/COVIDNet-SSL) / [poster](/pdf/POSTER - TRUDLMIA - CVIS.pdf)
+[arXiv](https://arxiv.org/abs/2212.02764) / [code](https://github.com/k78ma/COVIDNet-SSL) / [poster](/pdf/POSTER - TRUDLMIA - CVIS.pdf)
 
 <br>
 
