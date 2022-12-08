@@ -12,6 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
     <li>Perception (computer vision, deep learning)</li>
     <li>Motion planning & control</li>
     <li>Reinforcement learning & Simulation</li>
+    <li>Embodied AI</li>
+    <li>Impactful applications of AI (medical imaging, etc)</li>
   </ul>
 
 theme: jekyll-theme-minimal
