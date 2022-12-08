@@ -39,6 +39,9 @@ Machine Learning & Computer Vision Intern  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 ### Projects
 
+| Project 1   | Project 2       | Project 3   |
+| Project 4   | Project 5       | Project 6   |
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
