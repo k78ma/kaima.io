@@ -5,7 +5,7 @@
 
 ### Work Experience
 
-![VIP Lab logo](/images/vip_logo.png "VIP Lab")Robotics Engineering Intern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sept - Dec 2022 <br>
+<img src="images/vip_logo.png" width="30"/> Robotics Engineering Intern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sept - Dec 2022 <br>
 *Vision and Image Processing Lab - University of Waterloo*
 - Working as part of the [FLAIROP](ttps://flairop.com) project (collaboration with KIT, Festo, DarwinAI) to improve perception for robotic grasping.
 
