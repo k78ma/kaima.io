@@ -11,7 +11,7 @@ Robotics Engineering Intern  <span style="float:right"> Sept - Dec 2022 </span> 
 
 <br>
 
-Machine Learning & Computer Vision Intern  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan - Apr 2022 <br>
+Machine Learning & Computer Vision Intern <span style="float:right"> Jan - Apr 2022 </span> <br>
 *National Research Council Canada*
 - Worked as part of the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project to improve performance and trustworthiness for AI-assisted chest radiography.
 
