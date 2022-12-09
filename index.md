@@ -5,7 +5,7 @@
 
 ### Work Experience
 
-Robotics Engineering Intern  <span> [Sept - Dec 2022]{style="float:right"} </span> <br>
+Robotics Engineering Intern  <span style="float:right"> [Sept - Dec 2022] </span> <br>
 *Vision and Image Processing Lab - University of Waterloo*
 - Working as part of the [FLAIROP](ttps://flairop.com) project (collaboration with KIT, Festo, DarwinAI) to improve perception for robotic grasping.
 
