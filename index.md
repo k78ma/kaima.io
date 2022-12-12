@@ -1,4 +1,4 @@
-## WEBSITE UNDERGOING CONSTRUCTIONWelcome to my website
+## Welcome to my website!
 ### <span style="color:#b00b1e">I am currently seeking internships for Summer 2023.</span>
 
 ---
