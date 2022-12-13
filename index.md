@@ -1,6 +1,7 @@
 ## UNDER CONSTRUCTION
 ### <span style="color:#b00b1e">I am currently seeking internships for Summer 2023.</span>
 
+[My Resume](/pdf/Kai_Ma_2023_AI.pdf)
 ---
 
 ### Work Experience
