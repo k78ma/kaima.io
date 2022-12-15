@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I’m mainly interested in <b>AI/ML/DL</b>, especially in terms of their applications to <b>robotics</b> and autonomous systems. 
   Specific interests include:  <ul>
-    <li>Perception (computer vision, deep learning)</li>
+    <li>Perception (computer vision, deep learning, 3D scene representation)</li>
     <li>Motion planning & control</li>
     <li>Reinforcement learning & Simulation</li>
   </ul>
