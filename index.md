@@ -1,7 +1,17 @@
 ## UNDER CONSTRUCTION
 ### <span style="color:#b00b1e">I am currently seeking internships for Summer 2023.</span>
 ---
+### About Me
+I’m mainly interested in <b>AI/ML/DL</b>, especially in terms of their applications to <b>robotics</b> and autonomous systems. 
+Specific interests include:  <ul>
+  <li>Perception (computer vision, deep learning, 3D scene representation)</li>
+  <li>Motion planning & control</li>
+  <li>Reinforcement learning</li>
+  <li>Simulation</li>
+  <li>Other impactful applications of AI (medical imaging, agriculture)</li>
+</ul>
 
+---
 ### Work Experience
 
 Robotics Engineering Intern  <span style="float:right"> Sept - Dec 2022 </span> <br>
