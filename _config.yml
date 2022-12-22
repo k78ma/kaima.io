@@ -5,14 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://k78ma.github.io/pdf/Kai_Ma_Summer_2023_AI.pdf">Résumé</a> | <a href="mailto:k78ma@uwaterloo.ca">Email</a> | <a href="https://www.linkedin.com/in/k78ma/">LinkedIn</a> | <a href="https://github.com/k78ma">GitHub</a>
   <br><br>
   Mechatronics Engineering @ UWaterloo.
-  <br><br>
-  I’m mainly interested in <b>AI/ML/DL</b>, especially in terms of their applications to <b>robotics</b> and autonomous systems. 
-  Specific interests include:  <ul>
-    <li>Perception (computer vision, deep learning, 3D scene representation)</li>
-    <li>Motion planning & control</li>
-    <li>Reinforcement learning</li>
-    <li>Simulation</li>
-    <li>Other impactful applications of AI (medical imaging, agriculture)</li>
-  </ul>
+  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
