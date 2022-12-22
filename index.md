@@ -2,14 +2,15 @@
 ### <span style="color:#b00b1e">I am currently seeking internships for Summer 2023.</span>
 ---
 ### About Me
+- Studying Mechatronics Engineering @ University of Waterloo
+- Currently Robotics Engineering + Deep Learning @ VIP Lab
 I’m mainly interested in <b>AI/ML/DL</b>, especially in terms of their applications to <b>robotics</b> and autonomous systems. 
-Specific interests include:  <ul>
+Specific interests include:
   <li>Perception (computer vision, deep learning, 3D scene representation)</li>
   <li>Motion planning & control</li>
   <li>Reinforcement learning</li>
   <li>Simulation</li>
   <li>Other impactful applications of AI (medical imaging, agriculture)</li>
-</ul>
 
 ---
 ### Work Experience
@@ -17,12 +18,14 @@ Specific interests include:  <ul>
 Robotics Engineering Intern  <span style="float:right"> Sept - Dec 2022 </span> <br>
 *Vision and Image Processing Lab - University of Waterloo*
 - Working as part of the [FLAIROP](ttps://flairop.com) project (collaboration with KIT, Festo, DarwinAI) to improve robotic grasping.
+- Supervised by [Dr. Yuhao Chen](https://www.linkedin.com/in/yuhao-chen-789a2164/) and [Prof. Alexander Wong](https://uwaterloo.ca/systems-design-engineering/profile/a28wong).
 
 <br>
 
 Machine Learning & Computer Vision Intern <span style="float:right"> Jan - Apr 2022 </span> <br>
 *National Research Council Canada*
 - Worked as part of the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project to improve performance and trustworthiness for AI-assisted chest radiography.
+- Supervised by [Dr. Pengcheng Xi](https://sites.google.com/view/perryxi/?pli=1) and [Prof. Alexander Wong](https://uwaterloo.ca/systems-design-engineering/profile/a28wong).
 
 <br>
 
